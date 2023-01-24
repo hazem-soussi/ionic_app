@@ -5,7 +5,7 @@ You're welcome to explore my IONIC mobile dev advancement
 I'll be happy to receive from if there is any questions :D
 
 
-E-mail : hazem.soussi@gmail.com
+E-mail : hazem.soussi@gmail.com <br>
 Whatsapp : +216 98 454 001
 
 
